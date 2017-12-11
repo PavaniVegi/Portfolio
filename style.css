@@ -1,11 +1,10 @@
-img{
+.dp{
     height: 100%;
     width: 100%;
 }
 .title{
     margin-right: 12px;
 }
-
 .background{
     padding-bottom: 40px;
 }
@@ -31,7 +30,7 @@ center h1, center a{
     body{
         margin-bottom: 100px;
     }
-    .title img{
+    .logo img{
         height: 73px;
         width: 100px;
         margin-top: 21px;
@@ -46,10 +45,7 @@ center h1, center a{
     body{
         margin-bottom: 100px;
     }
-    .container{
-        padding-right: 50px;
-    }
-    .title img{
+    .logo img{
         height: 73px;
         width: 100px;
         margin-top: 21px;
@@ -66,11 +62,8 @@ center h1, center a{
 @media only screen and (max-width: 766px){
     body{
         margin-bottom: 50px;
-    }
-    .container{
-        padding-left: 33px !important;
-    }
-    .title img{
+    }    
+    .logo img{
         height: 73px;
         width: 100px;
         margin-top: 21px;
