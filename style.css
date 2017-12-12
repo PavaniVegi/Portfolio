@@ -45,7 +45,7 @@ center a  {
         margin-right: 152px;        
     }
 
-    .projectpic {  /*images are not in same size , height in percentages doesn't workout */
+    .projectpic {  
         height: 200px;
         width: 100%;
         object-fit: contain;
@@ -65,7 +65,7 @@ center a  {
         margin-right: 152px;        
     }
 
-    .projectpic {  /*images are not in same size , height in percentages doesn't workout */
+    .projectpic {  
         height: 250px;
         width: 100%;
         object-fit: contain;
